@@ -1,6 +1,4 @@
-<script async src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
-<script>
-  window.googletag = window.googletag || {cmd: []};
+window.googletag = window.googletag || {cmd: []};
   googletag.cmd.push(function() {
    googletag.defineSlot('/22860782424/WTG_container/krotoszynska.pl/belka_sticky', [[320,50],[320,100],[360,50],[360,100],[750,100],[970,90]], 'div-gpt-ad-2356994-1')
              .addService(googletag.pubads());
@@ -66,4 +64,3 @@ googletag.defineSlot('/22860782424/WTG_container/krotoszynska.pl/slot_bottom', [
     googletag.pubads().setCentering(true);
     googletag.enableServices();
   });
-</script>
